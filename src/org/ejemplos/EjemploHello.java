@@ -7,6 +7,8 @@ public class EjemploHello {
 		System.out.println("Hola Mundo");
 		
 		System.out.println("Adios");
+		
+		System.out.println("Hola de nuevo!");
 	}
 
 }
